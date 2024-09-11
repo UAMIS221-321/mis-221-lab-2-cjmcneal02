@@ -8,6 +8,8 @@ const double SANDWICH_COST = 4.75;
 const double TOPPING_COST = 0.55;
 const double DISCOUNT = 0.1;
 
+//Tester
+//Sherlenthia comment
 
 //Ask user for # of sandwiches
 Console.WriteLine("Enter # of Sanwiches: ");
